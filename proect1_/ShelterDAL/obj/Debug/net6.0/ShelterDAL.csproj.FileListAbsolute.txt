@@ -1,0 +1,12 @@
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.csproj.AssemblyReference.cache
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.AssemblyInfoInputs.cache
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.AssemblyInfo.cs
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.csproj.CoreCompileInputs.cache
+D:\c#\Proekt\WebApplication1\ShelterDAL\bin\Debug\net6.0\ShelterDAL.deps.json
+D:\c#\Proekt\WebApplication1\ShelterDAL\bin\Debug\net6.0\ShelterDAL.dll
+D:\c#\Proekt\WebApplication1\ShelterDAL\bin\Debug\net6.0\ShelterDAL.pdb
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.dll
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\refint\ShelterDAL.dll
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ShelterDAL.pdb
+D:\c#\Proekt\WebApplication1\ShelterDAL\obj\Debug\net6.0\ref\ShelterDAL.dll

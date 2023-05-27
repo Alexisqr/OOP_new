@@ -1,0 +1,15 @@
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.csproj.AssemblyReference.cache
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.AssemblyInfoInputs.cache
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.AssemblyInfo.cs
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.csproj.CoreCompileInputs.cache
+D:\c#\Proekt\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ShelterBLL.deps.json
+D:\c#\Proekt\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ShelterBLL.dll
+D:\c#\Proekt\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ShelterBLL.pdb
+D:\c#\Proekt\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ShelterDAL.dll
+D:\c#\Proekt\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ShelterDAL.pdb
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.csproj.CopyComplete
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.dll
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\refint\ShelterBLL.dll
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ShelterBLL.pdb
+D:\c#\Proekt\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ref\ShelterBLL.dll
