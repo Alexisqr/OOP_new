@@ -1,0 +1,14 @@
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.csproj.AssemblyReference.cache
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.AssemblyInfoInputs.cache
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.AssemblyInfo.cs
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.csproj.CoreCompileInputs.cache
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\bin\Debug\net6.0\ShelterEF.DAL.deps.json
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\bin\Debug\net6.0\ShelterEF.DAL.runtimeconfig.json
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\bin\Debug\net6.0\ShelterEF.DAL.dll
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\bin\Debug\net6.0\ShelterEF.DAL.pdb
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.dll
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\refint\ShelterEF.DAL.dll
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.pdb
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ShelterEF.DAL.genruntimeconfig.cache
+D:\c#\Proekt\WebApplication1\ShelterEF.DAL\obj\Debug\net6.0\ref\ShelterEF.DAL.dll
